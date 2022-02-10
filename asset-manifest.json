@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-bootstrap/static/css/main.6c234fd4.css",
+    "main.js": "/form-bootstrap/static/js/main.9478351e.js",
+    "static/js/787.daf19064.chunk.js": "/form-bootstrap/static/js/787.daf19064.chunk.js",
+    "index.html": "/form-bootstrap/index.html",
+    "main.6c234fd4.css.map": "/form-bootstrap/static/css/main.6c234fd4.css.map",
+    "main.9478351e.js.map": "/form-bootstrap/static/js/main.9478351e.js.map",
+    "787.daf19064.chunk.js.map": "/form-bootstrap/static/js/787.daf19064.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c234fd4.css",
+    "static/js/main.9478351e.js"
+  ]
+}
